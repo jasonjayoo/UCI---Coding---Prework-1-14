@@ -1,0 +1,33 @@
+***Module 7 - Corrected Boo Code***
+
+
+Style.CSS: (No Errors Were Found in the CSS File)
+
+
+Logic.JS: (List of Errors Found)
+
+	1. (#"textPink"), under "color" the word [Pink] was not in quotes
+	2. (#"TextOrange"), the $("#funText") line was not indented
+	3. (#"boxGrow"), the [Click] was not in quotes
+	4. (#"boxShrink"), the [Click] was not in quotes
+	5. Each Boo Fact was not placed in separate quotes
+
+BooTheDog.html: (List of Errors Found)
+
+1. <div class="jumbotron bg-primary text-center"> was not indented
+2. Boo the Dog fan page titling was not placed under an <h1> tag
+3. <div clas = "row"> was too indented
+4. Several <div class="col-sm-12" + "panels" + etc were not indented correctly
+5. (under the About Boo the Dog) - the information about Boo was in a large cumbersome block, so each segment was placed under a <p> tag,
+   totaling in four <p> tags, including the read more about Boo Wikipedia link.
+6. Boo the Dog Wikipedia link href was not placed under quotes nor written in the correct way.
+7. img was not given opening or closing tags <>
+8. Exchanged <div class = "row"> and <div class>
+9. Placed <button class= "btn" id="textGreen"> at the bottom of the buttons because it is the third of three buttons
+10. Placed <button class = "btn-color"> id text colors did not match the descriptions so corrected to match descriptions 
+11. Flipped <div class = "row text-center"> and <div class = "col-sm-6 text-center"> in order to correctly reorganize the webpage
+12. No <li> list tags were placed for each of Boo's Favorite Things under the <ol> ordered list
+13. <script> For linking Javascript file src ="errors.js" was changed to "logic.js" in order to correctly link the Javascript file to the html.
+
+
+***end***

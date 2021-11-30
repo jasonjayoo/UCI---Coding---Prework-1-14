@@ -1,0 +1,39 @@
+h1 
+{
+    text-align: center;
+}
+
+#first {color: red}
+#second {color: blue}
+#third {color: green}
+
+#fourth {font-size: 64px}
+#fifth {font-size: 12px}
+
+#sixth
+{
+    text-align: center;
+}
+
+#seventh 
+{
+    font-weight: 700;
+}
+
+#eighth 
+{
+    font-family:cursive;
+}
+
+#ninth
+{
+    font-weight: 700; font-size: x-large; font-family:fantasy; color: orange;
+}
+
+#styledfont {color:green; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+img {
+    border-width: 15px;
+    border-color: orange;
+    border-style: solid;
+}

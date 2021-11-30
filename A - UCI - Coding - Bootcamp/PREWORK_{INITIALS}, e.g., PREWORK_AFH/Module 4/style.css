@@ -1,0 +1,30 @@
+h1
+{
+    color: darkblue;
+}
+
+h2
+{
+    color: red
+}
+
+img
+{
+    border-style: solid;
+    border-width: 10px;
+    border-color: darkgoldenrod;    
+}
+
+p
+{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#first {color: yellowgreen;}
+
+#second {color:tomato;}
+
+#third {color: gray;}
+
+#fourth {color:black}

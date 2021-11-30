@@ -1,0 +1,61 @@
+﻿Job Position(s): Web Designer/Developer, Software Developer-Front End, Full Stack Developer.
+
+
+ 	-       Union Rescue Mission
+
+
+         	545 S. San Pedro St. 
+		Los Angeles, CA 90013
+		[Full-Time]
+
+
+        -       Veritas Classical Academy
+                
+                1601 W. Malvern Ave
+                Fullerton, CA 92833
+                [Part-Time]
+                
+
+        -       Unis Fulfillment
+                
+                6800 Valley View St.
+                Buena Park, CA 90620
+                [Full-Time]
+
+
+Job Description: Web designer/developer will report to the Integrated Director. The web designer/developer will be responsible for revamping websites, improving donor experience and integration for digital and local event campaigns across inbound and outbound marketing.
+
+
+
+
+Term(s):
+
+
+* Inbound Marketing: A method of how businesses tailor unique experiences and content   for customers.
+
+
+* Outbound Marketing: A type of marketing and/or advertising were a business initiates conversations and sends messages out to potential clients/customers.
+
+
+* Integrated Director: These individuals are responsible for ensuring that business information systems like data collection and communications systems work efficiently with one another to achieve maximum output while keeping costs down.
+
+
+* PHP: Originally stood for “Personal Homepage” but is more readily known as “Hypertext Preprocessor. It is a web development tool widely used open source general-purpose scripting language that is well suited for web development and can be easily embedded into HTML
+
+
+* jQuery: a Javascript Library that is designed to simplify HTML DOM tree traversal and manipulation, along with event handling, CSS animation, and Ajax. 
+
+
+* Express.js: aka simply Express, a back end web application framework for Node.js
+
+
+* Node.js: A platform built on Google Chrome’s Javascript runtime for simplifying the building of scalable network applications. Popular for making lightweight and efficient data intensive real-time applications which can be utilized across multiple devices. 
+
+
+* Socket.Io: A Javascript library used for real-time web applications, which enables real-time, two directional comm between web clients and servers. It consists of two parts. One: a client side library that runs in the browser and Two: a server side library for Node.js
+
+
+* Wordpress: An open source content management system. It makes it easy to create and manage a website. Very popular CMS in the cyber world.
+
+
+* Vue.js: A progressive framework for building user interfaces. It is designed to be incrementally adoptable, the core library is designed to focus on the view layer only. It is easy to understand and integrate into other library platforms and existing projects.

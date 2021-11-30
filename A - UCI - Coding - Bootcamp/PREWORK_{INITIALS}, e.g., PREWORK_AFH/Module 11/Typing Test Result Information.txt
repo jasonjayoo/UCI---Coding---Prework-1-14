@@ -1,0 +1,11 @@
+
+
+***Typing Word Test - WPM 50 (94%)
+
+https://www.typingtest.com/result.html?acc=94&nwpm=50&gwpm=53&ncpm=250&gcpm=265&dur=60&time=60&chksum=23513&unit=wpm&kh=998&td=null&err=3&hits=265&textfile=mediumText.txt
+
+
+
+***Javascript Coding Typing Test - WPM 30, Elapsed Time: 2:01, unproductive keystroke overhead 7%, Typeable characters: 305 - Typed Characters: 327.
+
+https://typing.io/lesson/javascript/jquery/traversing.js/1
